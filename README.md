@@ -28,7 +28,7 @@ Este es un espacio donde comparto mi experiencia como desarrollador backend con 
 
 ## 📸 Vista previa
 
-![Texto alternativo](/PortafolioInicio.png)
+![Texto alternativo](/public/PortafolioInicio.png)
 
 ---
 
