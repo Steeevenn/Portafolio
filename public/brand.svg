@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85 107">
+  <defs>
+    <symbol id="brand" viewBox="0 0 85 107">
+      <!-- Doble M estilizada en morado -->
+      <path fill="#1abc9c" d="M20 70V30H0V70H10V50H20V70H30V50H40V70H50V30H30V50H20V30H10V50H0V70H10V50H20V70Z"/>
+      <path fill="#1abc9c" d="M55 70V30H35V70H45V50H55V70H65V50H75V70H85V30H65V50H55V30H45V50H35V70H45V50H55V70Z"/>
+    </symbol>
+  </defs>
+</svg>
