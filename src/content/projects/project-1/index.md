@@ -14,14 +14,13 @@ demoUrl: https://gitfront.io/r/Mmotivar/w8xqyFm6UrwW/ProyectoDishjer/
 repoUrl: https://gitfront.io/r/Mmotivar/w8xqyFm6UrwW/ProyectoDishjer/
 ---
 
-🖨️ DisjherApp – Sistema de Gestión de Reportes Técnicos para Impresoras Ricoh
-CLIENTEAPP es una aplicación web desarrollada para automatizar y optimizar la generación, envío y supervisión de reportes de servicios técnicos en el sector de impresión digital (especializado en equipos Ricoh). Diseñada para agilizar procesos, reducir errores manuales y mejorar la comunicación entre técnicos, clientes y personal involucrado en el proceso.
+🖨️ DisjherApp – Sistema de Gestión de Reportes Técnicos para Impresoras Ricoh CLIENTEAPP es una aplicación web desarrollada para automatizar y optimizar la informacion, envío y supervisión de reportes de servicios técnicos en el sector de impresión digital (especializado en equipos Ricoh). Diseñada para agilizar procesos, reducir errores manuales y mejorar la comunicación entre técnicos, clientes y personal involucrado en el proceso.
 
 🔥 Funcionalidades Clave:
 
 ✅ 📋 Formulario Digital Intuitivo
 
-Interfaz dinámica para que técnicos registren detalles del servicio (fallas, repuestos usados, horas de trabajo, etc.).
+Interfaz dinámica para que los técnicos registren detalles del servicio (fallas, repuestos usados, horas de trabajo, etc.).
 
 Validación de datos en tiempo real para evitar inconsistencias.
 

@@ -29,4 +29,4 @@ Vialogistic.com.co es una Landing Page desarrollada para mostrar los servicios e
 
 🚀 Objetivo del proyecto:
 
-Brindar una plataforma digital sencilla pero eficiente que comunique claramente los beneficios de Vialogistic (rapidez en tiempos ede recogida y entrega, seguridad en el envio de paquetes y cobertura global) y convierta visitantes en clientes potenciales.
+Brindar una plataforma digital sencilla pero eficiente que comunique claramente los beneficios de Vial Logistic (rapidez en tiempos de recogida y entrega, seguridad en el envió de paquetes y cobertura global) que convierta visitantes en clientes potenciales.

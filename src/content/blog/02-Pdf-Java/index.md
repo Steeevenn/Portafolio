@@ -15,10 +15,11 @@ tags:
 En el desarrollo backend, la generación de documentos PDF es un requisito común para aplicaciones empresariales (facturas, reportes, contratos, etc.). Java ofrece varias librerías robustas para esta tarea, pero ¿cuál elegir?
 
 En este post, compararemos Apache PDFBox, iText y JasperReports, analizando:
-✅ Rendimiento
-✅ Facilidad de uso
-✅ Soporte para plantillas complejas
-✅ Integración con bases de datos
+
+- ✅ Rendimiento
+- ✅ Facilidad de uso
+- ✅ Soporte para plantillas complejas
+- ✅ Integración con bases de datos
 
 Al final, implementaremos un ejemplo práctico: una factura dinámica generada desde MySQL.
 
@@ -48,7 +49,7 @@ Al final, implementaremos un ejemplo práctico: una factura dinámica generada d
 
 ## 🛠 Ejemplo Práctico: Factura desde MySQL con iText
 
-Vamos a generar una factura en PDF utilizando la libreria mencionada ya que anteriormente he trabajado con dicha libreria y he obtenido exclentes resultados en cuanto a rendimiento y confiabiliad de proceso, utilizaremos las siguientes caracterizticas :
+Vamos a generar una factura en PDF utilizando a librería mencionada ya que se obtienen excelentes resultados en cuanto a rendimiento y confiabilidad de proceso.
 
 - Datos del cliente (Base de datos).
 
