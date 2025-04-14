@@ -1,89 +1,54 @@
-![Astro Sphere Lighthouse Score](_astrosphere.jpg)
+# 👨‍💻 Michael Motivar (MM) - Portafolio Backend
 
-Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
+¡Bienvenido a mi portafolio personal!
 
-It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
+Este es un espacio donde comparto mi experiencia como desarrollador backend con enfoque en **Java**, **bases de datos SQL**, y el framework **Spring Boot**. También exploro el desarrollo frontend con **JavaScript** y **React**, y recientemente he comenzado a trabajar con **Astro** para crear interfaces modernas, rápidas y optimizadas.
 
-## 🚀 Deploy your own
+---
 
-[![Deploy with Vercel](_deploy_vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-sphere)  [![Deploy with Netlify](_deploy_netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-sphere)
+## 🚀 Tecnologías que uso
 
-## 📋 Features
+- ⚙️ Java 8 - 21 , Spring Boot, Hibernate, Jpa,
+- 🛢️ MySQL, PostgreSQL,
+- 📦 REST APIs
+- 🌐 HTML, CSS, JavaScript
+- ⚛️ React (nivel intermedio)
+- 🌌 Astro (en proceso de adaptación)
 
-- ✅ 100/100 Lighthouse performance
-- ✅ Responsive
-- ✅ Accessible
-- ✅ SEO-friendly
-- ✅ Typesafe
-- ✅ Minimal style
-- ✅ Light/Dark Theme
-- ✅ Animated UI
-- ✅ Tailwind styling
-- ✅ Auto generated sitemap
-- ✅ Auto generated RSS Feed
-- ✅ Markdown support
-- ✅ MDX Support (components in your markdown)
-- ✅ Searchable content (posts and projects)
-- ✅ Code Blocks - copy to clipboard
+---
 
-## 💯 Lighthouse score
-![Astro Sphere Lighthouse Score](_lighthouse.png)
+## 🧭 Secciones del portafolio
 
-## 🕊️ Lightweight
-All pages under 100kb (including fonts)
+- 🏠 **Inicio** – Bienvenida y presentación personal
+- 🧳 **Experiencia** – Trayectoria laboral y proyectos
+- 📁 **Proyectos** – Repositorio de trabajos personales y colaborativos
+- ✍️ **Blog** – Publicaciones técnicas, principalmente sobre Java
 
-## ⚡︎ Fast
-Rendered in ~40ms on localhost
+---
 
-## 📄 Configuration
+## 📸 Vista previa
 
-The blog posts on the demo serve as the documentation and configuration.
+![Texto alternativo](/PortafolioInicio.png)
 
-## 💻 Commands
+---
 
-All commands are run from the root of the project, from a terminal:
+## 🌍 Sitio en línea
 
-Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, etc
+🚧 Próximamente disponible
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run dev:network`     | Starts dev server on local network               |
-| `npm run sync`            | Generates TypeScript types for all Astro modules.|
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run preview:network` | Starts preview server on local network           |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-| `npm run lint`            | Run ESLint                                       |
-| `npm run lint:fix`        | Auto-fix ESLint issues                           |
+---
 
-## 🗺️ Roadmap
+## 🧠 Notas adicionales
 
-A few features I plan to implement
-- ⬜ Article Pages - Table of Contents
-- ⬜ Article Pages - Share on social media
+Este proyecto fue construido sobre una plantilla de **Astro**, adaptada y personalizada completamente para reflejar mi estilo y enfoque como desarrollador backend y asi dar a conocer mi adaptabilidad al desarrollo en cualquier ambito que se requiera .
 
-## ✨ Acknowledgement
+---
 
-Theme inspired by [Paco Coursey](https://paco.me/), [Lee Robinson](https://leerob.io/) and [Hayden Bleasel](https://www.haydenbleasel.com/)
+## 🤝 Contacto
 
+¿Quieres colaborar o tienes alguna idea en mente?  
+Puedes contactarme a través de las redes que aparecen en el portafolio, o abrir un issue en este repositorio si es necesario.
 
-## 🏛️ License
+---
 
-MIT
-
-
-# 1.0.1 Update
-
-Added ability to run dev and preview on local network.
-added npm run dev:network
-added npm run preview:network
-
-Added slightly more particle density in both light and dark mode.
-
-Added subtle dark mode star and meteor animations.
-
-Removed eslint config
-
+Gracias por visitar 🙌
