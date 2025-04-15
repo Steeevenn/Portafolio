@@ -1,5 +1,5 @@
 ---
-title: "Generación de PDFs en Java: Apache PDFBox vs iText vs JasperReports"
+title: "Generación de PDF en Java: Apache PDFBox vs iText vs JasperReports"
 summary: "Comparativa técnica y ejemplo práctico con facturas dinámicas desde una base de datos"
 date: "Jan 12 2025"
 draft: false
@@ -49,7 +49,7 @@ Al final, implementaremos un ejemplo práctico: una factura dinámica generada d
 
 ## 🛠 Ejemplo Práctico: Factura desde MySQL con iText
 
-Vamos a generar una factura en PDF utilizando a librería mencionada ya que se obtienen excelentes resultados en cuanto a rendimiento y confiabilidad de proceso.
+Vamos a generar una factura en PDF utilizando la librería mencionada ya que se obtienen excelentes resultados en cuanto a rendimiento y confiabilidad de procesos.
 
 - Datos del cliente (Base de datos).
 
