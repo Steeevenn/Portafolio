@@ -16,10 +16,10 @@ En el desarrollo backend, la generación de documentos PDF es un requisito comú
 
 En este post, compararemos Apache PDFBox, iText y JasperReports, analizando:
 
-- ✅ Rendimiento
-- ✅ Facilidad de uso
-- ✅ Soporte para plantillas complejas
-- ✅ Integración con bases de datos
+- ✅ Rendimiento.
+- ✅ Facilidad de uso.
+- ✅ Soporte para plantillas complejas.
+- ✅ Integración con bases de datos.
 
 Al final, implementaremos un ejemplo práctico: una factura dinámica generada desde MySQL.
 
