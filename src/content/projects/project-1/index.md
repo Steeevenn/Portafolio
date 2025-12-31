@@ -1,5 +1,5 @@
 ---
-title: "Proyecto 1"
+title: "DISJHER - Gestion de Reportes Tecnicos para Usuarios Finales"
 summary: "CLIENTEAPP sistema de informacion Web con capacidad de generar reportes de Servicios Tecnicos a impresoras Ricoh "
 date: "Nov 29 2024"
 draft: false

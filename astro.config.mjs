@@ -6,7 +6,7 @@ import solidJs from "@astrojs/solid-js";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "http://mmotivar.dev",
+  site: "https://mmotivar.dev",
   integrations: [
     sitemap({
       changefreq: "yearly",

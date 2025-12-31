@@ -1,5 +1,5 @@
 ---
-title: "Proyecto 2"
+title: "LandingPage - Pagina de Aterrizaje con informacion sobre la empresa"
 summary: "Vialogistic.com.co pagina Web tipo Landing Page creada para mostrar informacion de servicios que prestan para tus envios internacionales"
 date: "Feb 07 2024"
 draft: false
