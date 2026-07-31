@@ -1,4 +1,5 @@
 ---
+import StatsCounter from "@components/StatsCounter"
 import { getCollection } from "astro:content"
 import PageLayout from "@layouts/PageLayout.astro"
 import ArrowCard from "@components/ArrowCard"
@@ -99,23 +100,39 @@ title="Inicio" description={SITE.DESCRIPTION}>
       Ingeniero de Software y actualmente me desempeño como desarrollador BackEnd
     </p>
 
+    <!-- Badge de disponibilidad -->
+    <div class="mt-4 inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-green-500/10 border border-green-500/30 text-green-500 dark:text-green-400 text-sm font-medium">
+      <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
+      Disponible para proyectos
+    </div>
+
     <!-- Botones CTA -->
-    <div id="ctaButtons" class='flex flex-wrap gap-4 justify-center mt-5'>
-      <a href='/work' class='py-2 px-4 truncate rounded text-xs md:text-sm lg:text-base border border-black/25 dark:border-white/25 hover:bg-black/5 hover:dark:bg-white/15 blend'>
-        Observa mi trabajo
+    <div id="ctaButtons" class='flex flex-wrap gap-4 justify-center items-center mt-6'>
+      <a href='https://wa.me/3208779684?text=Hola%2C%20estoy%20interesado%20en%20contratar%20tus%20servicios%20de%20desarrollo' target="_blank" rel="noopener noreferrer" class='py-2.5 px-6 truncate rounded text-xs md:text-sm lg:text-base bg-neutral-800 dark:bg-neutral-200 text-white dark:text-black hover:bg-neutral-900 dark:hover:bg-neutral-100 blend font-medium transition-all duration-300'>
+        Contrata mis servicios
       </a>
-      <a href='/blog' class='py-2 px-4 rounded truncate text-xs md:text-sm lg:text-base bg-black dark:bg-white text-white dark:text-black hover:opacity-75 blend'>
-        Lee mi blog
+      <a href='/projects' class='py-2.5 px-5 truncate rounded text-xs md:text-sm lg:text-base border border-black/25 dark:border-white/25 hover:bg-black/5 hover:dark:bg-white/15 blend'>
+        Ver proyectos
+      </a>
+      <a href='/blog' class='py-2.5 px-5 truncate rounded text-xs md:text-sm lg:text-base border border-black/25 dark:border-white/25 hover:bg-black/5 hover:dark:bg-white/15 blend'>
+        Ver blog
       </a>
     </div>
     
   </div>
 </div>
   </section>
-  
 
-  
-
+  <!-- Stats / Métricas -->
+  <div class="relative bg-white dark:bg-black">
+    <div class="mx-auto max-w-screen-sm p-5">
+      <StatsCounter client:load stats={[
+        { value: 3, label: "Años de Experiencia" },
+        { value: 3, label: "Proyectos Entregados" },
+        { value: 1, label: "Disponible ahora" }
+      ]} />
+    </div>
+  </div>
 
   <div class="relative bg-white dark:bg-black">
     <div class="mx-auto max-w-screen-sm p-5 space-y-24 pb-16">
